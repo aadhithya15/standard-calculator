@@ -105,12 +105,11 @@ Publish the website in the given URL.
 
 ## OUTPUT:
 ### Server output:
-
-![Screenshot (78)](https://github.com/ShanmathiShanmugam/standard-calculator/assets/121243595/cebd9772-e086-41e9-b4c8-04e1bd28dfa5)
+![Screenshot (119)](https://github.com/aadhithya15/standard-calculator/assets/121165812/ab5c3332-eaa1-41d7-a5f8-01c306f7f775)
 
 ### Client output:
+![Screenshot (120)](https://github.com/aadhithya15/standard-calculator/assets/121165812/55a6b0d8-a301-45e3-975e-29aea8a5103d)
 
-![Screenshot (77)](https://github.com/ShanmathiShanmugam/standard-calculator/assets/121243595/851c99a0-9b23-4da5-b019-39a19e93590c)
 
 ## Result:
 Thus the program for the simple calculator executed successfully.
